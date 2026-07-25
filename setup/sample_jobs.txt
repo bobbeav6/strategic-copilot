@@ -1,0 +1,150 @@
+Job Description 
+The incoming Chief Revenue Officer will serve as the architect and executor of Denodo’s commercial acceleration. Reporting directly to the CEO Angel Viña and partnering closely with the executive leadership team and Board, this executive will lead a go-to-market transformation designed to unlock sustained ARR growth, expand wallet share across Denodo’s Global 2000 install base, and position the company to double revenue within three years.
+
+ 
+This is both a disciplined scaling mandate and a high-upside growth opportunity, an ideal challenge for a CRO who thrives in complex enterprise environments and can move seamlessly between sales execution, segmentation strategy, partner leverage, and organizational leadership. Denodo has built a category-defining platform with limited direct competition, with significant runway to expand commercial penetration and scale a more robust partner ecosystem.
+
+ 
+The CRO will be empowered with full ownership across Sales, Business Development, Customer Success, Revenue Operations and Marketing to build forecasting rigor, activate hyperscaler and global consultancy partnerships, lead the transition toward a scalable consumption-based model, and institutionalize repeatable growth frameworks.
+
+ 
+Salary range between 350,000 and 450,000 USD, based on experience and qualifications.
+
+ Job Responsibilities & Duties 
+As a seasoned revenue leader, the CRO will oversee Denodo’s global revenue organization with a mandate to accelerate ARR growth and build predictable, scalable execution. This role requires a leader who can balance enterprise-level strategy with hands-on operational rigor across a complex global footprint.
+
+ 
+Key responsibilities include:
+
+ 
+ 
+ 
+Lead and oversee global Sales, Business Development, Customer Success and Marketing organizations, serving as a core member of the executive leadership team and shaping strategy to scale from ~$200M toward $400M+ in ARR.
+
+ 
+ 
+ 
+Build, mentor, and scale a high-performing global revenue organization, instilling discipline in hiring, enablement, and performance management.
+
+ 
+ 
+ 
+accelerate new/expansion bookings growth to 50% and overall ARR beyond 20%.
+
+ 
+ 
+ 
+Unlock significant whitespace within an underpenetrated Global 2000 install base through disciplined cross-sell and expansion motions.
+
+ 
+ 
+ 
+Develop and operationalize a global partner strategy, strengthening engagement with hyperscalers (including AWS) and tier-one consultancies (BCG, EY, Capgemini).
+
+ 
+ 
+ 
+Lead the transition toward a consumption-based pricing model, ensuring commercial clarity, market adoption, and internal alignment.
+
+ 
+ 
+ 
+Institutionalize RevOps rigor across forecasting, segmentation, pipeline velocity, and data-driven decision-making.
+
+ 
+ 
+ 
+Expand Denodo’s global footprint across North America, EMEA, and APAC, scaling coverage in high-potential but underdeveloped regions.
+
+ 
+ 
+ 
+Shift positioning from analytics-enablement toward mission-critical AI and operational data infrastructure, aligning revenue strategy with emerging enterprise demand.
+
+ 
+ 
+ 
+Maintain transparent communication with the CEO and board, providing clear visibility into growth levers, risks, and execution progress.
+
+ 
+ 
+ Desired Skills & Experience 
+ 
+ 
+Significant revenue leadership experience at scale (in the $200M-$500M range), with a proven track record of accelerating growth; experience leading aggressive growth mandates in complex enterprise environments is essential.
+
+ 
+ 
+ 
+Demonstrated success driving commercial transformations—professionalizing go-to-market motions, installing forecasting discipline, strengthening RevOps infrastructure, and building repeatable frameworks for predictable expansion.
+
+ 
+ 
+ 
+Proven ability to scale global enterprise sales organizations across North America, EMEA, and APAC, including managing 75+ quota carriers and building high-performance leadership benches.
+
+ 
+ 
+ 
+Track record of unlocking install base monetization within Global 2000 accounts, driving disciplined cross-sell, expansion, and multi-division enterprise penetration.
+
+ 
+ 
+ 
+Experience building and activating strategic partner ecosystems, including hyperscalers (e.g., AWS) and tier-one global consultancies, to create leverage in complex enterprise sales cycles.
+
+ 
+ 
+ 
+Deep understanding of modern data infrastructure, including distributed data architectures, governance, lakehouse ecosystems, and AI-driven enterprise use cases.
+
+ 
+ 
+ 
+Experience leading or materially contributing to transitions toward consumption-based or usage-driven pricing models within enterprise SaaS environments.
+
+ 
+ 
+ 
+Strong executive presence with credibility across CIO, CDO, CTO, and line-of-business buyers in highly complex organizations.
+
+ 
+ 
+ 
+Dynamic, disciplined leadership style—capable of scaling what works, strengthening operational rigor, and accelerating growth without unnecessary disruption.
+
+ 
+ 
+ 
+Inspirational leadership style and hands-on approach.
+
+ 
+
+
+
+
+ Nscale is the GPU cloud engineered for AI. We provide cost-effective, high-performance infrastructure for AI start-ups and large enterprise customers. Nscale enables AI-focused companies to achieve superior results by reducing the complexity of AI development. Our GPU cloud bolsters technical capabilities and directly supports strategic business outcomes, including cost management, rapid innovation, and environmental responsibility.
+
+We thrive on a culture of relentless innovation, ownership, and accountability, where every team member takes pride in their work and drives it with excellence and urgency. As an Nscaler, you’ll build trust through openness and transparency, where everyone is inspired to do their best work. If you join our team, you’ll be contributing to building the technology that powers the future.
+
+About The Role
+
+As the VP of GTM Strategy & Ops, you are the operational co-pilot to the SVP of GTM and the central nervous system of our revenue organization. Selling hyperscale AI infrastructure requires a delicate, high-stakes balance: we are marrying massive, capital-intensive infrastructure deployments (featuring long-lead supply chains for GPUs and liquid cooling systems) with volatile, hyper-growth enterprise demand. You have the exciting mandate to take our early operational foundations and engineer them into a highly scalable, world-class GTM engine. Rather than inheriting a rigid legacy playbook, you will have the autonomy to author our definitive operating model. Initially, this means getting highly tactical—optimizing complex capacity monetization models, refining sales territories, and architecting the next evolution of our CRM and data systems. Once these systems are robust and driving predictable revenue velocity, you will step into scale-mode, recruiting and leading specialized leaders across Capacity Planning, Deal Strategy, Competitive Insights, and Revenue Operations to expand the organization globally.
+
+Responsibilities
+
+Architect the Operating Rhythm: Design, implement, and relentlessly iterate on the core GTM operating cadence. This includes establishing rigorous weekly forecasting methodologies, designing impactful Quarterly Business Reviews (QBRs), and leading the annual strategic planning cycles.
+Capacity & Revenue Modeling: Build complex financial and operational models that serve as the connective tissue between our GPU deployment schedules and our sales pipeline. You will ensure we monetize every megawatt of our data centers with maximum efficiency, balancing spot instances with long-term reserved commits.
+Build the RevOps & Tech Stack Foundation: Dive deep into our data architecture. You will personally evaluate, select, and implement our core GTM tool stack (CRM, CPQ, forecasting tools), establishing strict pipeline hygiene standards and data definitions.
+Cross-Functional Orchestration: Serve as the critical translation layer between Sales, Finance, Engineering, and Supply Chain. You will convert raw physical compute capacity into actionable sales territories and quotas, ensuring the GTM team is always selling what the supply chain can actually deliver.
+Strategic Board Reporting: Distill complex operational data into compelling, high-level narratives, partnering directly with the SVP of GTM to prepare Board-level presentations, performance readouts, and strategic investment requests.
+
+Experience & Capabilities
+
+12+ years of progressive experience in Revenue Operations, GTM Strategy, or Cloud Infrastructure Operations, with prior success at the VP or Sr. Director level in a hyper-growth tech environment.
+Tangible, provable experience in a capital-intensive, capacity-constrained business (e.g., traditional cloud providers, physical infrastructure). You inherently understand how to align sales incentives with supply chain realities and hardware deprecation cycles.
+A true "builder's" mindset. You have a portfolio of complex operational systems you designed and scaled from the ground up, finding the breaking points, and then successfully transitioning to a scaled team.
+Deeply analytical chops; you are a power user of data visualization tools and find joy in building dynamic, multi-variable capacity, pricing, and consumption-based revenue architectures.
+Exceptional leadership capabilities. You are a talent magnet who leads with high EQ, demonstrating the versatility to do the gritty data-cleansing work on Monday and present a multi-year strategic vision to the C-suite on Tuesday.
+
+Stability in previous jobs, with a track record of accomplishments over a meaningful period of time.
